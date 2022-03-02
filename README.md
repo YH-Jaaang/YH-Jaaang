@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JANG%20YOUNG%20HO&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=auto&section=header&text=JANG%20YOUNG%20HO&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <div align=center>
     <div align=center><h2>✍ stack ✍</h2></div>
     <h3> BackEnd </h3>
