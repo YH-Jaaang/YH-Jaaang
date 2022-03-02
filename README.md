@@ -23,9 +23,9 @@
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">   
     <h3> BlockChain </h3>
         <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
-        <img src="https://img.shields.io/badge/Ethereum-F16822?style=for-the-badge&logo=Ethereum&logoColor=white">
+        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
         <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Web3.java-F16822?style=for-the-badge&logo=Web3.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Web3.java-F16822?style=for-the-badge&logo=Web3.js&logoColor=white"><br>
         <img src="https://img.shields.io/badge/ethers.js-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white">
         <img src="https://img.shields.io/badge/klaytn-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white">
         <img src="https://img.shields.io/badge/caver.js-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white">
