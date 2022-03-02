@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white">
 
-<div align=center>
+<p align=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YH-Jaaang&&show_icons=true&theme=swift)
-</div>
+</p>
